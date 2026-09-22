@@ -17,13 +17,14 @@ I am particularly interested in applying analytics to baseball, healthcare, and 
 
 ## Baseball Analytics
 
-I am building a portfolio of projects focused on player evaluation, projection, and Statcast data.
+I am building a portfolio of baseball analytics projects focused on player evaluation, projection, performance analysis, and data engineering.
 
-**Projects include:**
+**Current projects include:**
 
-* MLB player projection and strikeout-rate modeling
+* MLB pitcher strikeout-rate projection
 * MLB pitching performance analysis
-* Baseball data pipelines and visualization
+* Baseball analytics data pipeline using Python and SQL
+* MLB salary prediction using machine learning
 
 [View my baseball analytics projects →](/baseball/)
 
