@@ -36,7 +36,7 @@ I am building a portfolio of baseball analytics projects focused on player evalu
 
 **Tools:** Git, GitHub, Excel, Streamlit
 
-**Language:** Japanese (fluent), English (fluent)
+**Language:** English (fluent), Japanese (fluent)
 
 ## Education
 
