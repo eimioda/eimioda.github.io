@@ -1,0 +1,33 @@
+---
+---
+
+@import "minimal-mistakes";
+
+body {
+  background-color: #ffffff;
+}
+
+a {
+  color: #1f5f9f;
+}
+
+a:hover {
+  color: #174a7c;
+}
+
+h1, h2, h3 {
+  color: #174a7c;
+}
+
+.masthead,
+.greedy-nav {
+  background-color: #ffffff;
+}
+
+.greedy-nav a {
+  color: #174a7c;
+}
+
+.greedy-nav a:hover {
+  color: #1f5f9f;
+}
