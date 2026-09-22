@@ -44,4 +44,4 @@ BS, Neuroscience
 
 ## Contact
 
-[GitHub](https://github.com/eimioda) · [LinkedIn](https://www.linkedin.com/)
+[GitHub](https://github.com/eimioda) · [LinkedIn](https://www.linkedin.com/in/eimi-oda/)
