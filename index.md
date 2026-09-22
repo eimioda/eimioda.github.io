@@ -1,7 +1,10 @@
 ---
-layout: single
+layout: splash
 title: "Eimi Oda"
-author_profile: true
+excerpt: "Data Analytics | Baseball Analytics | Biotech"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
 ---
 
 ## About Me
