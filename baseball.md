@@ -30,8 +30,22 @@ The project looks at metrics including K%, GB%, K-BB%, BABIP, and HR/FB, as well
 
 ## Baseball Analytics Data Pipeline
 
-A data pipeline project focused on collecting, transforming, and preparing baseball data for analysis and visualization.
+A data pipeline project focused on collecting, transforming, and querying MLB performance and salary data.
+The project includes a SQLite relational database and SQL queries for player filtering, leaderboard analysis, and performance exploration. An interactive Streamlit dashboard integrates a linear regression model to generate salary predictions from player performance metrics.
 
-**Tools:** Python, SQL, ETL, Streamlit
+**Methods:** Python, SQL, SQLite, ETL, Streamlit
 
 *Coming soon.*
+
+## MLB Salary Prediction Using Machine Learning
+
+A machine learning project focused on predicting MLB player salaries from historical batting performance data.
+
+The project compares Lasso Regression, Random Forest, and k-Nearest Neighbors models, with preprocessing and feature engineering including dataset merging, missing-value imputation, and log transformation of salary distributions.
+
+Models were evaluated using RMSE with K-fold cross-validation and GridSearchCV, with feature importance analysis used to identify key predictors of player salary.
+
+**Methods:** Python, Scikit-learn, Lasso Regression, Random Forest, k-Nearest Neighbors
+
+*Coming soon.*
+
