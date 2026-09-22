@@ -35,7 +35,9 @@ The project includes a SQLite relational database and SQL queries for player fil
 
 **Methods:** Python, SQL, SQLite, ETL, Streamlit
 
-*Coming soon.*
+[View the project on GitHub](https://github.com/eimioda/baseball-etl-pipeline)
+
+---
 
 ## MLB Salary Prediction Using Machine Learning
 
