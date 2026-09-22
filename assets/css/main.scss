@@ -3,31 +3,60 @@
 
 @import "minimal-mistakes";
 
+/* Clean white and blue theme */
+
 body {
-  background-color: #ffffff;
+  background: #ffffff;
 }
 
 a {
-  color: #1f5f9f;
+  color: #1769aa;
 }
 
 a:hover {
-  color: #174a7c;
+  color: #0d47a1;
 }
 
-h1, h2, h3 {
-  color: #174a7c;
+/* Navigation */
+
+.masthead {
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb;
 }
 
-.masthead,
 .greedy-nav {
-  background-color: #ffffff;
+  background: #ffffff;
 }
 
 .greedy-nav a {
-  color: #174a7c;
+  color: #333333;
 }
 
 .greedy-nav a:hover {
-  color: #1f5f9f;
+  color: #1769aa;
+}
+
+/* Page headings */
+
+.page__title,
+h1,
+h2,
+h3 {
+  color: #174a7c;
+}
+
+/* Buttons */
+
+.btn--primary {
+  background-color: #1769aa;
+}
+
+.btn--primary:hover {
+  background-color: #0d47a1;
+}
+
+/* Footer */
+
+.page__footer {
+  background: #f5f8fb;
 }
