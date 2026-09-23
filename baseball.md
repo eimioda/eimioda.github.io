@@ -49,5 +49,5 @@ Models were evaluated using RMSE with K-fold cross-validation and GridSearchCV, 
 
 **Methods:** Python, Scikit-learn, Lasso Regression, Random Forest, k-Nearest Neighbors
 
-[View the project on GitHub](https://github.com/eimioda/mlb-salary-prediction)
+[View the project on GitHub]
 
